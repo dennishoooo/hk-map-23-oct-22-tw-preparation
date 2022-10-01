@@ -1,0 +1,19 @@
+{
+  "name": "preparation-course",
+  "version": "1.0.0",
+  "description": "## Day 1",
+  "main": "01-data-types.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@dennishoooo.github.com:dennishoooo/hk-map-hk-map-23-oct-22-tw-preperation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
